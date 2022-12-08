@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\bin\Debug\net6.0\Example_03_spisok_v_kube.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\bin\Debug\net6.0\Example_03_spisok_v_kube.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\bin\Debug\net6.0\Example_03_spisok_v_kube.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\bin\Debug\net6.0\Example_03_spisok_v_kube.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\bin\Debug\net6.0\Example_03_spisok_v_kube.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\refint\Example_03_spisok_v_kube.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\Example_03_spisok_v_kube.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_03_spisok_v_kube\obj\Debug\net6.0\ref\Example_03_spisok_v_kube.dll
