@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\refint\Example_02_coordinaty.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_02_coordinaty\obj\Debug\net6.0\ref\Example_02_coordinaty.dll
