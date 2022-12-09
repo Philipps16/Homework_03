@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\bin\Debug\net6.0\Example_04_Chernika.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\bin\Debug\net6.0\Example_04_Chernika.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\bin\Debug\net6.0\Example_04_Chernika.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\bin\Debug\net6.0\Example_04_Chernika.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\bin\Debug\net6.0\Example_04_Chernika.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\refint\Example_04_Chernika.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\Example_04_Chernika.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_03\Example_04_Chernika\obj\Debug\net6.0\ref\Example_04_Chernika.dll
