@@ -15,7 +15,7 @@ Random rand = new Random();
 for (int i = 0; i < array.Length; i++)
 {
     {
-        array[i] = rand.Next (0, 10);
+        array[i] = rand.Next (0, 1000);
         Console.Write($"{array [i]}, ");
     }
 }   
