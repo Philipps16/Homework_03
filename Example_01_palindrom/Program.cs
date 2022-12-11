@@ -15,7 +15,7 @@ for (int i = 0; i < 3;)
 {
     if (array[i] == array [(array.Length - 1)])
     {
-    if (array[i+1] == array [(array.Length - 2)]);
+    if (array[i+1] != array [(array.Length - 2)])
     Console.Write ("Число является палиндромом");
     break;
     }
